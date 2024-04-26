@@ -8,7 +8,7 @@
             <div class="text">PENTATIF</div>
             <br>
             <ul>
-                <li><router-link to="/">beranda</router-link></li>
+                <li><router-link to="/beranda">beranda</router-link></li>
                 <li><router-link to="/mahasiswa">Mahasiswa</router-link></li>
                 <li>
                     <a href="#" class="feat-btn" @click="toggleDropdown">
