@@ -28,7 +28,7 @@
             <div class="dropdown">
                 <button class="dropbtn">Koordinator TA</button>
                 <div class="dropdown-content">
-                    <router-link to="/logout">Logout</router-link>
+                    <router-link to="/">Logout</router-link>
                 </div>
             </div>
         </nav>
